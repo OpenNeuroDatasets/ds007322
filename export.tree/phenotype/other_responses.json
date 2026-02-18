@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+    "Description": "BIDS participant identifier",
+    "Units": "n/a",
+    "LongName": "Participant ID"
+  },
+    "Q1": "How much do you agree with the statement: I am addicted to my smartphone?",
+    "Q2": "My phone is on [Silent / DND]",
+    "Q3": "My phone is on [Vibrate only]",
+    "Q4": "My phone is on [Loud]",
+    "Q5": "Do you receive notifications on some other device instead (like a smartwatch)?",
+    "Q6": "What emotions are typically associated with receiving smartphone notifications?",
+    "Q7": "How did you feel about the notifications during the first half of the experiment?",
+    "Q8": "How did you feel about the notifications during the 2nd half of the experiment?"
+}
